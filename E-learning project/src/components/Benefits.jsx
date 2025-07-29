@@ -20,7 +20,7 @@ const Benefits = () => {
         {/* Title */}
         <Title
           title="Benefits"
-          text="Lorem ipsum dolor sit amet consectetur. Tempus tincidunt etiam eget elit id imperdiet et. Cras eu sit dignissim lorem nibh et. Ac cum eget habitasse in velit fringilla feugiat senectus in."
+          text="Learning our courses offers a wide range of benefits, including hands-on skills that are highly demanded in today’s job market. Whether you're diving into full stack development, UI/UX design, or graphic design, you'll gain practical experience through real-world projects, expert mentorship, and interactive lessons. Our courses are designed to boost your confidence, improve your problem-solving abilities, and prepare you for high-paying job opportunities or freelance work."
           link="View All"
         />
         {/* Card wrapper */}

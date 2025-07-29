@@ -228,12 +228,12 @@ export const contactInfo = [
   {
     id: 1,
     icon: RiPhoneFill,
-    label: "hello@skillbridge.com",
+    label: "amimodiana9@gmail.com",
   },
   {
     id: 2,
     icon: RiMailSendFill,
-    label: "+2547",
+    label: "+254736924612",
   },
   {
     id: 3,
