@@ -233,7 +233,7 @@ export const contactInfo = [
   {
     id: 2,
     icon: RiMailSendFill,
-    label: "+254736924612",
+    label: "+254737561912",
   },
   {
     id: 3,
