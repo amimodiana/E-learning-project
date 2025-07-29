@@ -19,7 +19,7 @@ const Courses = () => {
         <Title
           title="Our Courses"
           text={
-            "Lorem ipsum dolor sit amet consectetur. Tempus tincidunt etiam eget elit id imperdiet et. Cras eu sit dignissim lorem nibh et. Ac cum eget habitasse in velit fringilla feugiat senectus in."
+            "At the most seasoned coding school in Kenya, learn full stack programming, front-end web development, UI/UX design, graphic design for beginners, advanced JavaScript, web design fundamentals, and mobile app development. Obtain well-paying IT jobs without a college degree by enrolling in Kenya's top software development school."
           }
           link={"View All"}
         />

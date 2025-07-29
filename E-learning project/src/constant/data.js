@@ -118,7 +118,7 @@ export const coursesSecItems = [
     img: "/images/course-img-1.png",
     title: "Web Design Fundamentals",
     text: "Learn the fundamentals of web design, including HTML, CSS, and responsive design principles. Develop the skills to create visually appealing and user-friendly websites.",
-    instructor: "By John Smith",
+    instructor: "By John Were",
     tags: [{ tag: "4 Weeks" }, { tag: "Beginner" }],
   },
   {
@@ -126,7 +126,7 @@ export const coursesSecItems = [
     img: "/images/course-img-2.png",
     title: "Mobile App Development",
     text: "Dive into the world of mobile app development. Learn to build native iOS and Android applications using industry-leading frameworks like Swift and Kotlin.",
-    instructor: "By David Brown",
+    instructor: "By David Kirua",
     tags: [{ tag: "8 Weeks" }, { tag: "Intermediate" }],
   },
   {
@@ -134,7 +134,7 @@ export const coursesSecItems = [
     img: "/images/course-img-3.png",
     title: "Front-End Web Development",
     text: "Become proficient in front-end web development. Learn HTML, CSS, JavaScript, and popular frameworks like Bootstrap and React. Build interactive and responsive websites.",
-    instructor: "By Michael Adams",
+    instructor: "By Michael Wekulo",
     tags: [{ tag: "10 Weeks" }, { tag: "Intermediate" }],
   },
   {
@@ -142,7 +142,7 @@ export const coursesSecItems = [
     img: "/images/course-img-4.png",
     title: "UI/UX Design",
     text: "Master the art of creating intuitive user interfaces (UI) and enhancing user experiences (UX). Learn design principles, wireframing, prototyping, and usability testing techniques.",
-    instructor: "By John Smith",
+    instructor: "By John Murua",
     tags: [{ tag: "6 Weeks" }, { tag: "Intermediate" }],
   },
   {
@@ -150,7 +150,7 @@ export const coursesSecItems = [
     img: "/images/course-img-5.png",
     title: "Graphic Design for Beginners",
     text: "Discover the fundamentals of graphic design, including typography, color theory, layout design, and image manipulation techniques. Create visually stunning designs for print and digital media.",
-    instructor: "By Sarah Thompson",
+    instructor: "By Sarah Kamau",
     tags: [{ tag: "10 Weeks" }, { tag: "Beginner" }],
   },
   {
@@ -158,7 +158,7 @@ export const coursesSecItems = [
     img: "/images/course-img-6.png",
     title: "Advanced JavaScript",
     text: "Take your JavaScript skills to the next level. Explore advanced concepts like closures, prototypes, asynchronous programming, and ES6 features. Build complex applications with confidence.",
-    instructor: "By Jennifer Wilson",
+    instructor: "By Jennifer Webo",
     tags: [{ tag: "6 Weeks" }, { tag: "Advance" }],
   },
 ];
@@ -167,26 +167,26 @@ export const testimonialsItems = [
   {
     id: 1,
     text: "The web design course provided a solid foundation for me. The instructors were knowledgeable and supportive, and the interactive learning environment was engaging. I highly recommend it!",
-    author: "Sarah L",
-    img: "/images/testi-img-1.png",
+    author: "Sarah Otieno",
+    img: "/images/image 6.jpg",
   },
   {
     id: 2,
     text: "The UI/UX design course exceeded my expectations. The instructor's expertise and practical assignments helped me improve my design skills. I feel more confident in my career now. Thank you!",
-    author: "Jason M",
-    img: "/images/testi-img-2.png",
+    author: "Jason Mumo",
+    img: "/images/image 1.jpeg",
   },
   {
     id: 3,
     text: "The mobile app development course was fantastic! The step-by-step tutorials and hands-on projects helped me grasp the concepts easily. I'm now building my own app. Great course!",
-    author: "Emily R",
+    author: "Emily Beth",
     img: "/images/testi-img-3.png",
   },
   {
     id: 4,
     text: "I enrolled in the graphic design course as a beginner, and it was the perfect starting point. The instructor's guidance and feedback improved my design abilities significantly. I'm grateful for this course!",
-    author: "Michael K",
-    img: "/images/testi-img-4.png",
+    author: "Michael Kosgei",
+    img: "/images/image 2.jpeg",
   },
 ];
 
@@ -233,7 +233,7 @@ export const contactInfo = [
   {
     id: 2,
     icon: RiMailSendFill,
-    label: "+91 91813 23 2309",
+    label: "+2547",
   },
   {
     id: 3,
